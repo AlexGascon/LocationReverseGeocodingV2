@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationReverseGeocodingV2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+  
+    <string name="app_name">Nvolveu</string>
+    <string name="persona">Persona</string>
+    <string name="todo">Todo</string>
+    <string name="organizacion">Organización</string>
+    <string name="no_conexion">No hay conexión a Internet</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cinco" android:title="5 km"/>
+    <item android:id="@+id/diez" android:title="10 km"/>
+    <item android:id="@+id/veinte" android:title="20 km"/>
+    <item android:id="@+id/mas_grande" android:title="Muy amplio"/>
+</menu>
